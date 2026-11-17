@@ -1,0 +1,25 @@
+
+{
+  "game": "Minecraft Xbox 360 Edition",
+  "title_id": "584111F7",
+  "profile": "minecraft",
+  "mouse": {
+    "enabled": true,
+    "sensitivity": 50,
+    "invert_y": false
+  },
+  "keyboard": {
+    "W": "LEFT_STICK_UP",
+    "A": "LEFT_STICK_LEFT",
+    "S": "LEFT_STICK_DOWN",
+    "D": "LEFT_STICK_RIGHT",
+    "SPACE": "A",
+    "SHIFT": "B",
+    "E": "Y",
+    "ESC": "START"
+  },
+  "mouse_buttons": {
+    "LEFT": "RT",
+    "RIGHT": "LT"
+  }
+}
